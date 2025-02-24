@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.example.demo.touchpoint.feature_1.0.0.qualifier.jar" id="com.example.demo.touchpoint.feature" version="1.0.0.qualifier">
+      <category name="demo"/>
+   </feature>
+   <category-def name="demo" label="demo"/>
+</site>

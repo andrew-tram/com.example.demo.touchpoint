@@ -1,0 +1,7 @@
+metaRequirements.0.namespace=org.eclipse.equinox.p2.iu
+metaRequirements.0.name=com.example.demo.touchpoint
+metaRequirements.0.range=[1.0.0,2.0.0)
+
+instructions.configure = \
+com.example.demo.touchpoint.action.SetConfigValue(); \
+com.example.demo.touchpoint.action(incomingFile:isomefile.txt);

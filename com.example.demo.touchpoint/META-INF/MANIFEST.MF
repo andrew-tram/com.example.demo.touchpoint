@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Touchpoint
+Bundle-SymbolicName: com.example.demo.touchpoint;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.31.0",
+ org.eclipse.equinox.p2.engine;bundle-version="2.10.0",
+ org.eclipse.equinox.p2.touchpoint.eclipse;bundle-version="2.1.100",
+ org.eclipse.equinox.frameworkadmin;bundle-version="2.0.100"
+Bundle-Vendor: EXAMPLE
+Automatic-Module-Name: com.example.demo.touchpoint
+Bundle-RequiredExecutionEnvironment: JavaSE-17
